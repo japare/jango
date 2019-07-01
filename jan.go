@@ -1,3 +1,6 @@
+// Package jan provides access to several functions facilitating
+// the lookup of japanese article numbers (JANs) for products
+// potentially matching a series of keywords you pass to its interface.
 package jan
 
 import (
